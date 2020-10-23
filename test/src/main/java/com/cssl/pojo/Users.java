@@ -6,13 +6,18 @@ public class Users {
     private String name;
     private String sex;
 
+
+    //master
+    public Users() {
+    }
+
     //dev 构造
     public Users(Integer id, String name, String sex) {
         this.id = id;
         this.name = name;
         this.sex = sex;
     }
-    
+
     public Integer getId() {
         return id;
     }
