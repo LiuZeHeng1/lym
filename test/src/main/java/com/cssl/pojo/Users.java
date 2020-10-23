@@ -10,6 +10,10 @@ public class Users {
     //master
     public Users() {
         System.out.println("java");
+        System.out.println("1111");
+        System.out.println("1111");
+        System.out.println("1111");
+        System.out.println("1111");
     }
 
     //dev 构造
