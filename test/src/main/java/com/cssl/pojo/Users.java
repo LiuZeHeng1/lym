@@ -7,6 +7,16 @@ public class Users {
     private String sex;
 
 
+
+    //dev 分支
+    public Integer getId() {
+        return id;
+    }
+
+    public void setId(Integer id) {
+        this.id = id;
+    }
+
     public String getName() {
         return name;
     }
