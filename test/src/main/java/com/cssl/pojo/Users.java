@@ -9,6 +9,7 @@ public class Users {
 
     //master
     public Users() {
+        System.out.println("java");
     }
 
     //dev 构造
