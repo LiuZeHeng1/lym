@@ -12,8 +12,7 @@ public class Users {
         this.name = name;
         this.sex = sex;
     }
-
-    //dev 分支
+    
     public Integer getId() {
         return id;
     }
