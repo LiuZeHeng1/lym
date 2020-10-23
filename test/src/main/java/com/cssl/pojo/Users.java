@@ -6,7 +6,12 @@ public class Users {
     private String name;
     private String sex;
 
-
+    //dev 构造
+    public Users(Integer id, String name, String sex) {
+        this.id = id;
+        this.name = name;
+        this.sex = sex;
+    }
 
     //dev 分支
     public Integer getId() {
